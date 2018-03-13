@@ -1,0 +1,6 @@
+.root {
+    -fx-background-color: pink;
+}
+.button {
+    -fx-color: rgba(137, 207, 240, 0.4);
+}

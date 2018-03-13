@@ -1,0 +1,21 @@
+5
+Allen
+Rick
+Morty
+BoJack
+Subaru
+Rem
+Emilia
+Diane
+Jessica
+Sextina-Aquafina
+Rem Emilia Diane Jessica Sextina-Aquafina
+Jessica Sextina-Aquafina Rem Diane Emilia
+Jessica Emilia Sextina-Aquafina Diane Rem
+Diane Rem Emilia Jessica Sextina-Aquafina
+Emilia Rem Jessica Diane Sextina-Aquafina
+Allen Subaru Rick BoJack Morty
+Allen Subaru BoJack Morty Rick
+BoJack Rick Morty Allen Subaru
+Morty Allen Rick Subaru BoJack
+Rick BoJack Allen Morty Subaru

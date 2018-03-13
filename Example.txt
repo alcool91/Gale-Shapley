@@ -1,0 +1,23 @@
+5
+Brian
+George
+John
+Robert
+Stephen
+Anne
+Joyce
+Nancy
+Patricia
+Susan
+Patricia Susan Joyce Anne Nancy
+Nancy Joyce Patricia Susan Anne
+Susan Joyce Nancy Patricia Anne
+Nancy Anne Joyce Susan Patricia
+Joyce Anne Susan Nancy Patricia
+George Stephen John Brian Robert
+George John Stephen Robert Brian
+John Brian Stephen Robert George
+George Brian Robert Stephen John
+Brian George Stephen John Robert 
+
+
